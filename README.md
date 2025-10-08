@@ -68,15 +68,15 @@ http://localhost:5173/
 
 🧠 Conceitos Trabalhados
 
--Durante o desenvolvimento, foram estudados e aplicados os seguintes conceitos:
--Componentização e reutilização de código
--Props e State
--Hooks (useState, useEffect, entre outros)
--Renderização condicional
--Comunicação entre componentes
--Manipulação de eventos no React
--Boas práticas com organização de pastas e código limpo
--Uso de Git e versionamento contínuo
+Durante o desenvolvimento, foram estudados e aplicados os seguintes conceitos:
+Componentização e reutilização de código
+Props e State
+Hooks (useState, useEffect, entre outros)
+Renderização condicional
+Comunicação entre componentes
+Manipulação de eventos no React
+Boas práticas com organização de pastas e código limpo
+Uso de Git e versionamento contínuo
 
 📈 Aprendizados
 
