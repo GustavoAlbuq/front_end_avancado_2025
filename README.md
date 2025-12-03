@@ -13,8 +13,19 @@ Este repositório foi desenvolvido durante a disciplina **Front-End Avançado**,
 ---
 
 ## 🎯 Objetivo Geral
+Desenvolver habilidades práticas com React e ferramentas modernas do front-end, incluindo:
 
-Desenvolver competências práticas em **React.js**, compreendendo o funcionamento da biblioteca, o uso de componentes funcionais, hooks, e o gerenciamento do ciclo de vida da aplicação, aplicando fundamentos sólidos do desenvolvimento front-end moderno.
+Criação de componentes funcionais
+
+Gerenciamento de estado e ciclo de vida com Hooks
+
+Navegação entre páginas com React Router
+
+Consumo de APIs com Axios
+
+Uso de bibliotecas de layout e UI como Bootstrap e React-Bootstrap
+
+Estruturação profissional de projetos
 
 ---
 
@@ -26,7 +37,12 @@ front_end_avancado_2025/
 ├── aula02/
 ├── aula03/
 ├── aula04/
+├── aula05/
+├── aula05_2/
+├── aula06/
+├── site-uniesp/
 └── README.md
+
 
 
 
@@ -37,13 +53,47 @@ Cada pasta representa uma etapa de aprendizado e implementação dentro do conte
 
 ## 💻 Tecnologias Utilizadas
 
-- **React.js (Vite ou Create React App)** — Criação de componentes e interface reativa  
-- **JavaScript (ES6+)** — Lógica, modularização e integração com APIs  
-- **HTML5 / JSX** — Estrutura e renderização de elementos  
-- **CSS3 / Tailwind / Styled Components** — Estilização e design responsivo  
-- **Node.js & npm** — Gerenciamento de dependências e execução do projeto  
-- **VS Code** — Ambiente de desenvolvimento  
-- **Git & GitHub** — Controle de versão e hospedagem do código  
+🔹 React.js
+
+Componentização e interfaces reativas
+
+JSX
+
+Hooks (useState, useEffect)
+
+🔹 React Router DOM
+
+Criação de rotas
+
+Navegação entre páginas
+
+Layouts com rotas aninhadas (quando aplicável)
+
+🔹 Axios
+
+Consumo de APIs REST
+
+Requisições GET/POST/PUT/DELETE
+
+Tratamento de respostas e erros
+
+🔹 Bootstrap & React-Bootstrap
+
+Estilização rápida e responsiva
+
+Componentes prontos (cards, navbar, containers, grids)
+
+🔹 Outras ferramentas
+
+JavaScript ES6+
+
+Node.js & npm
+
+VS Code
+
+Git & GitHub
+
+Vite ou Create React App (dependendo da aula)
 
 ---
 
